@@ -14,7 +14,9 @@ Vue.http.options.emulateJSON = true
 
 // Vue.prototype.$hostname = "https://qcitech.org:8082/inventory/"
 
-Vue.prototype.$hostname = 'https://api-inventory.qcitech.org/';
+// Vue.prototype.$hostname = 'https://api-inventory.qcitech.org/';
+
+Vue.prototype.$hostname = 'https://api-inventory.qcin.org/';
 
 // Vue.prototype.$hostname = "http://192.168.15.153:5000/inventory/";
 // var token = localStorage.getItem('token')
